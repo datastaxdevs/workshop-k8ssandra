@@ -1,0 +1,19 @@
+{
+  "name": "Deploy Cassandra into Kubernetes with K8ssandra",
+  "description": " learn how to deploy and manage a data tier based on Apache Cassandra™ cluster in Kubernetes using K8ssandra. ",
+  "duration": "180 minutes",
+  "skillLevel": "Intermediate",
+  "language":["yaml"],
+  "stack":["docker", "helm", "kubernetes", "k8ssandra", "stargate"],
+  "githubUrl": "https://github.com/datastaxdevs/workshop-k8ssandra",
+  "badge": "https://media.badgr.com/uploads/badges/f1523f2b-9fc2-4368-aed7-0e78a5216427.png",
+  "youTubeUrl": [ "https://www.youtube.com/watch?v=mDHT-yBOUUs" ],
+  "tags": [
+    { "name": "workshop" },
+    { "name":"kubernetes" },
+    { "name":"cloud-native" },
+    { "name":"k8ssandra" }
+  ],
+  "category": "workshop",
+  "usecases": ["cloud-native"]
+}
